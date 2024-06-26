@@ -2,7 +2,7 @@
 
 ## Массовое удаление файлов на компьютерах локальной сети Windows с Python по маске
 
-Сам скрипт: mass_deletion_of_files_on_the_network_by_mask.py
+**Название скрипта**: mass_deletion_of_files_on_the_network_by_mask.py
 
 ### Входные данные:
 
